@@ -14,6 +14,6 @@ public class App {
 
     @GetMapping("/")
     public String home() {
-        return "<h1>Hello Kalinga v7 🚀</h1>";
+        return "<h1>Hello Kalinga v8 🚀</h1>";
     }
 }
