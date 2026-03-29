@@ -14,6 +14,10 @@ public class App {
 
     @GetMapping("/")
     public String home() {
+<<<<<<< HEAD
         return "<h1>Hello Kalinga V5 🚀</h1>";
+=======
+        return "<h1>Hello Kalinga V4 🚀</h1>";
+>>>>>>> e4f54a1dd481a4271e8d480994131fd40025cad5
     }
 }
